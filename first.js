@@ -99,3 +99,18 @@ let kesoLekboNa;
 // class 9 
 
 console.log(typeof true,typeof 44, typeof"44", typeof kesoLekboNa)
+
+var num11 = 0.1;
+var num22 = 0.2;
+var sum  = num11 + num22;
+console.log(sum)
+
+sum = sum.toFixed(2);
+console.log(sum)
+
+
+// madolo % 
+console.log(11 % 3)
+
+//     (/)this means vagfol
+//     (%) This means vagsas
